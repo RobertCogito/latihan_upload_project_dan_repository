@@ -24,7 +24,7 @@ Aplikasi ini memiliki tiga halaman utama untuk menambah, menampilkan, dan mencar
 Aplikasi ini memiliki tampilan dengan warna latar lembut (`#fced90`) dan elemen modern menggunakan tema **"clam"** dari `ttk.Style`.
 
 
-# 📦 Cara Menjalankan
+# Cara Menjalankan
 
 1. Pastikan Python 3 sudah terinstal di perangkat Anda.
 
@@ -40,7 +40,7 @@ Aplikasi ini memiliki tampilan dengan warna latar lembut (`#fced90`) dan elemen 
 
 ---
 
-# 🗂️ Struktur Program
+# Struktur Program
 
 * **`halaman1`** — Form untuk menambah data siswa
 * **`halaman2`** — Tabel daftar seluruh siswa
